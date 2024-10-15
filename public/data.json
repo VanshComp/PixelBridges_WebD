@@ -1,0 +1,25 @@
+[
+    {
+        "id": "1",
+        "bgImg":"/assets/Alabay Games/Alabay Guard prev gradient.png",
+        "heroText":"/assets/heroText-1.png",
+        "para":"Take on the role of the legendary Alabay on a quest to uncover the ancient secrets of its ancestors. ",
+        "peviewImg": [
+            "/assets/Alabay Games/Alabay Guard/image 1 alabay guard.png",
+            "/assets/Alabay Games/Alabay Guard/image 2 alabay guard.png",
+            "/assets/Alabay Games/Alabay Guard/image 3 alabay guard.png"
+        ]
+    },
+    {
+        "id": "2",
+        "bgImg":"/assets/Alabay Games/Alabay heritage prev gradient.png",
+        "heroText":"/assets/heroText-2.png",
+        "para":"Take on the role of the legendary Alabay on a quest to uncover the ancient secrets of its ancestors. ",
+        "peviewImg": [
+            "/assets/Alabay Games/Alabay Adventure - The Lost Heritage/Abilities.png",
+            "/assets/Alabay Games/Alabay Adventure - The Lost Heritage/artifacts.png",
+            "/assets/Alabay Games/Alabay Adventure - The Lost Heritage/locations preview.png",
+            "/assets/Alabay Games/Alabay Adventure - The Lost Heritage/overview.png"
+        ]
+    }
+]
